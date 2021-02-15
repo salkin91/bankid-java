@@ -11,7 +11,7 @@ public class Main {
 
 		BankIdConnector bankIdConnector = new BankIdConnector();
 		String json = "{\n" +
-				"\"personalNumber\":\"200000000000\",\n" +
+				"\"personalNumber\":\"196612161502\",\n" +
 				"\"endUserIp\": \"194.168.2.25\",\n" +
 				"\"userVisibleData\": \"IFRoaXMgaXMgYSBzYW1wbGUgdGV4dCB0byBiZSBzaWduZWQ=\"\n" +
 				"}";
